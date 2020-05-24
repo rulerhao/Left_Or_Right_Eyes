@@ -23,3 +23,6 @@ The predict data is ramdomly choosen from each 5000 from left eyes and right eye
 
 # Each one image for predict cost about 0.0003 s.
 ![Predict_Time_Image](https://github.com/rulerhao/Left_Or_Right_Eyes/blob/master/Predict_Time.png)
+
+# Training equip
+![GPU_Device_Image](https://github.com/rulerhao/Left_Or_Right_Eyes/blob/master/Gpu_Device.png)
