@@ -16,9 +16,10 @@ you can get the database and trained file at ()
     softmaxLayer
     classification
 # Training progress
-![Training_Progress_Image](/Left_Or_Right_Eyes/Training_Progress.png)
+![Training_Progress_Image](https://github.com/rulerhao/Left_Or_Right_Eyes/blob/master/Training_Progress.png)
 # Accuracy of database = 0.9964
 The predict data is ramdomly choosen from each 5000 from left eyes and right eyes.
+![Accuracy_Image](https://github.com/rulerhao/Left_Or_Right_Eyes/blob/master/Accuracy.png)
 
 # Each one image for predict cost about 0.0003 s.
-![Predict_Time_Image](/Left_Or_Right_Eyes/Predict_Time.png)
+![Predict_Time_Image](https://github.com/rulerhao/Left_Or_Right_Eyes/blob/master/Predict_Time.png)
