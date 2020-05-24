@@ -1,8 +1,8 @@
 # Left_Or_Right_Eyes
 
 # Database
-you can get the database and trained file at (https://drive.google.com/file/d/1DICAIz6PvUvcR-7uzk36WFZqiJI2WEs0/view?usp=sharing)
-
+You can get the database and trained file at (https://drive.google.com/file/d/1DICAIz6PvUvcR-7uzk36WFZqiJI2WEs0/view?usp=sharing)
+What you need to do just put "Cartesian2" and "netTransfer" to your folder. And run "Exeute20180402.m"
 # Layer introduction
     convolution
     reluLayer
