@@ -1,0 +1,8 @@
+ vid=VideoReader('MP4\eyes.mp4');
+ numFrames = vid.NumberOfFrames;
+ n = numFrames;
+ for i = 1:2:n
+    frames = read(vid,i);
+    imwrite(frames,['MP4\Image' int2str(i), '.jpg']);
+    im(i)=image(frames);
+ end

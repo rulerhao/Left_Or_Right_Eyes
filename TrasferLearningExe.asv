@@ -1,0 +1,14 @@
+%load netTransfer.mat;
+
+Image = imread('MP4/Image_265.jpg');
+Image = rgb2gray(Image);
+imshow(Image);
+Image = imresize(Image,0.25)
+
+Images_Dir = dir('MP4/*.jpg');
+
+length(Images_Dir);
+for i = 1:length(Images_Dir);
+    
+end
+predictedLabels = classify(netTransfer,[Images_Dir]);
