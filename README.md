@@ -2,11 +2,12 @@
 
 # What need to do
 Please download files like training database and example videos from here:https://drive.google.com/file/d/1V7BwNymPVMJeMbg9UIHqsMu_PC_ZiWPx/view?usp=sharing
-
+And run "Exeute20180402.m"
 # What the program do ?
 It provides a method to identify images that which are left eye or right eye.
-If we know which eye is the picture. We can rise the accuracy of iris location and radius. That's because two eyes' eyelash of people on the opposite side.
-you need to do just put "Cartesian2" and "netTransfer" to your folder. And run "Exeute20180402.m"
+If we know which eye is the picture. 
+We can rise the accuracy of iris location and radius. 
+That's because two eyes' eyelash of people on the opposite side.
 
 # Layer introduction
 convolution
