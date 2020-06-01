@@ -1,8 +1,12 @@
 # Left_Or_Right_Eyes
 
+# Example Gif
+https://imgur.com/a/infWZZx or Left_Or_Right_Eyes.gif at this folder
+
 # What need to do
 Please download files like training database and example videos from here:https://drive.google.com/file/d/1V7BwNymPVMJeMbg9UIHqsMu_PC_ZiWPx/view?usp=sharing
 And run "Exeute20180402.m"
+
 # What the program do ?
 It provides a method to identify images that which are left eye or right eye.
 If we know which eye is the picture. 
